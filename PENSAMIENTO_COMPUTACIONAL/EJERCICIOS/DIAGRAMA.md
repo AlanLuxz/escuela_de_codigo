@@ -26,4 +26,10 @@ https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&n
 5. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
 
 * Inicio
-* Declarar (numeroAltura
+* Declarar (IngresAltura,IngreseBase, resultado)
+* Mostrar ("Ingresa el valor de la altura")
+* Mostrar ("Ingresa el valor de la base")
+* Asignar (IngrearAltura,IngresarBase)
+* Realizar operaciones (resultado=(IngreasarAltura * IngresarBase) /2)
+* Mostrar resultado ("mostar el resultado del area de un triangulo con "resultado" de los datos ingrados en "IngresarAltura y "IngreasrBase"")
+* FIN
