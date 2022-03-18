@@ -33,6 +33,8 @@ Programa que solicite se ingrese una letra y sólo permita introducir los caract
 * Respuesta = En caso de que (letra) sea case"A" || "a": Mostrar("Es vocal, prro") caso"E"|| "e": mostar("Es vocal, prro") caso "I" || "i": mostar("Es vocal, prro") caso "O" || "o": mostar("Es vocal, prro") caso "U" ||"u": mostar("Es vocal, prro") si no mostrar("no es vocal")
 * Fin
 
+![image](https://user-images.githubusercontent.com/101655295/159051277-b865a3cd-c6b5-4be9-a1c3-4e288bb78daf.png)
+
 Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
 * De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
