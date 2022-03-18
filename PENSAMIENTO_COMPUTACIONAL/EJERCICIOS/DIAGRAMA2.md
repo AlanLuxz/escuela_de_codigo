@@ -37,3 +37,6 @@
 * asigna(numero1)
 * SI(numero % 2 == 0) ENTONCES muestra("número1 " + num + " es par") si no mostrar("número1 " + num + " es impar") 
 * fin
+
+![image](https://user-images.githubusercontent.com/101655295/159038553-c6cdc4b1-6b1c-44e4-a137-8a157d6cf06f.png)
+
