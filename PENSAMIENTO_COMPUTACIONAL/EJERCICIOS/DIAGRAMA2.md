@@ -30,3 +30,10 @@
 ![image](https://user-images.githubusercontent.com/101655295/158857706-fa99432a-8f8a-40a1-a178-855d62f337db.png)
 
 5. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
+
+* inicio
+* declara(numero1)
+* muestra("ingresa un número")
+* asigna(numero1)
+* SI(numero % 2 == 0) ENTONCES muestra("número1 " + num + " es par") si no mostrar("número1 " + num + " es impar") 
+* fin
