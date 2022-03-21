@@ -50,19 +50,23 @@ De un programa que pida un número del 1 al 12 y diga el nombre del mes correspo
 
 * Inicio 
 * Declarar (Numero)Char
-* Mostrar ("ingrese un numero del 1 al 12"
+* Mostrar ("ingrese un numero del 1 al 12")
 * Asignar = (numero)
 * Respuesta = en caso de que (numero) sea "1" Mostrar("Enero") case "2" Mostrar("Febrero") case "3" Mostrar("Marzo") case "4" Mostrar("Abril") case"5" Mostrar("Mayo") case"6" Mostrar("Junio") case "7" Mostrar("Julio") case "8" Mostrar("Agosto") case "9" Mostrar(Septiembre") case "10" Mostrar("Octubre") case "11" Mostrar("Noviembre") case "12" Mostrar("Diciembre");
 * Fin
+
+![image](https://user-images.githubusercontent.com/101655295/159207962-85009c1f-eb62-4c66-bba3-0d8ceb87db26.png)
 
 De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
 
 * Inicio
 * Declarar (Letra0)
-* Mostrar ("ingrese la letra del partido por el que desee votar")
+* Mostrar ("ingrese la letra del partido por el que desee votar, ejemplo "a")
 * Asignar = (letra0)
 * Respuesta = En caso de que (letra0) sea "A" || "a" Mostrar("Usted ha votado por el partido rojo") case "B" || "b"Mostrar("Usted ha votado por el partido verde") case "C" || "c" Mostrar("Usted ha votado por el partido azul");
 * Fin 
+
+![image](https://user-images.githubusercontent.com/101655295/159209142-66376712-e272-41aa-a5be-fdfcfd08d98e.png)
 
 Para un programa que almacene la cadena de caracteres para una contraseña y email, pregunte al usuario por la contraseña y email e imprima por pantalla si la contraseña y el email introducidos por el usuario coincide con los guardadados en las variables.
 
