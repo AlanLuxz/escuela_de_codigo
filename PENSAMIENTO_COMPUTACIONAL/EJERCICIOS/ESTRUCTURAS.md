@@ -45,12 +45,32 @@ Programa que pida 3 números y los muestre en pantalla de menor a mayor.
 * Asignar (Num2
 * Mostrar ("ingrese un tercer numero")
 * Asignar (Num3)
-*
 
-* De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
-* 
+De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
 
-* De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
+* Inicio 
+* Declarar (Numero)Char
+* Mostrar ("ingrese un numero del 1 al 12"
+* Asignar = (numero)
+* Respuesta = en caso de que (numero) sea "1" Mostrar("Enero") case "2" Mostrar("Febrero") case "3" Mostrar("Marzo") case "4" Mostrar("Abril") case"5" Mostrar("Mayo") case"6" Mostrar("Junio") case "7" Mostrar("Julio") case "8" Mostrar("Agosto") case "9" Mostrar(Septiembre") case "10" Mostrar("Octubre") case "11" Mostrar("Noviembre") case "12" Mostrar("Diciembre");
+* Fin
 
-* 
-* Para un programa que almacene la cadena de caracteres para una contraseña y email, pregunte al usuario por la contraseña y email e imprima por pantalla si la contraseña y el email introducidos por el usuario coincide con los guardadados en las variables.
+De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
+
+* Inicio
+* Declarar (Letra0)
+* Mostrar ("ingrese la letra del partido por el que desee votar")
+* Asignar = (letra0)
+* Respuesta = En caso de que (letra0) sea "A" || "a" Mostrar("Usted ha votado por el partido rojo") case "B" || "b"Mostrar("Usted ha votado por el partido verde") case "C" || "c" Mostrar("Usted ha votado por el partido azul");
+* Fin 
+
+Para un programa que almacene la cadena de caracteres para una contraseña y email, pregunte al usuario por la contraseña y email e imprima por pantalla si la contraseña y el email introducidos por el usuario coincide con los guardadados en las variables.
+
+* Inicio
+* Declarar (email,contra)
+* Mostrar ("Ingrese direccion de correo electronico, ejemplo: hola1@gmail.com")
+* Asigna = (email)
+* Mostrar ("ingrese contraseña")
+* Asignar = (contra)
+* Respuesta = Si "(email) && (contra)" son = Mostrar("Acesso valido") si no Mostrar("Direccion o contraseña erroneos");
+* Fin 
