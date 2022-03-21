@@ -78,3 +78,5 @@ Para un programa que almacene la cadena de caracteres para una contraseña y ema
 * Asignar = (contra)
 * Respuesta = Si "(email) && (contra)" son = Mostrar("Acesso valido") si no Mostrar("Direccion o contraseña erroneos");
 * Fin 
+
+![image](https://user-images.githubusercontent.com/101655295/159213984-3f33cea9-aba0-4119-87ac-dd32b17532da.png)
