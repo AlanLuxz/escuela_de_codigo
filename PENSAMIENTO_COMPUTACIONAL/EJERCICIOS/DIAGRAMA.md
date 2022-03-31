@@ -33,3 +33,6 @@ https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&n
 * Realizar operaciones (resultado=(IngreasarAltura * IngresarBase) /2)
 * Mostrar resultado ("mostar el resultado del area de un triangulo con "resultado" de los datos ingrados en "IngresarAltura y "IngreasrBase"")
 * FIN
+
+![image](https://user-images.githubusercontent.com/101655295/161092628-87e25b0c-da34-4cab-8db0-03f3ea7167e6.png)
+
